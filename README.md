@@ -1,2 +1,0 @@
-# sd-finder
-# sd-finder
